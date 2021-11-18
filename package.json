@@ -1,0 +1,17 @@
+{
+  "author": "dafujii <dafujii.k@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "api",
+      "aws"
+    ]
+  },
+  "scripts": {
+    "nest": "nest"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^8.1.5"
+  }
+}
